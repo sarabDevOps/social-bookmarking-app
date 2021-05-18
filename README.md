@@ -29,8 +29,11 @@ JAVA 8  -  Website [here](https://www.oracle.com/java/technologies/javase-downlo
 #### Deployment
 
 **Step 1**. Download the eclipse.
+
 **Step 2**. Download and install java into your local machine.
+
 **Step 3**. Download MYSQL and install to your local machine, And run all the commands into your mysql console to create the database.
+
 **Step 4**. Download the zipped folder extract it and open it in your eclipse and run.
 
 
