@@ -20,6 +20,7 @@ The viewmodel is a key piece of the triad because it introduces Presentation Sep
 The viewmodel also exposes methods, commands, and other points that help maintain the state of the view, manipulate the model as the result of actions on the view, and trigger events in the view itself.
 
 #### Test Driven Development(TDD)
+![alt tag](https://github.com/sarabDevOPs/Gesture-UI-Project/blob/main/MYO.png)
 
 
 #### Prerequisites
