@@ -49,7 +49,7 @@ JAVA 8  -  Website [here](https://www.oracle.com/java/technologies/javase-downlo
 
 ### Author
           
-[Sarabjeet ](https://github.com/sarabDevOps/social-bookmarking-app)
+[Sarabjeet ](https://github.com/sarabDevOps)
 
 ### License
 
