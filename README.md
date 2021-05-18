@@ -21,7 +21,9 @@ The viewmodel also exposes methods, commands, and other points that help maintai
 
 #### Prerequisites
 Eclipse -  Website [here](https://www.eclipse.org/downloads/)
+
 MYSQL   -  Website [here](https://www.mysql.com/downloads/)
+
 JAVA 8  -  Website [here](https://www.oracle.com/java/technologies/javase-downloads.html)
 
 
