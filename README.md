@@ -8,7 +8,7 @@
 
 The model is what I like to refer to as the domain object. The model represents the actual data and/or information we are dealing with. An example of a model might be a contact (containing name, phone number, address, etc.) or the characteristics of a live streaming publishing point. The key to remember with the model is that it holds the information, but not behaviors or services that manipulate the information.
 
-#### The View 
+#### The View
 
 The view is what most of us are familiar with and the only thing the end user really interacts with. It is the presentation of the data. The view takes certain liberties to make this data more presentable. For example, a date might be stored on the model as number of seconds since midnight on January 1, 1970 (Unix Time). To the end user, however, it is presented with the month name, date, and year in their local time zone. A view can also have behaviors associated with it, such as accepting user input. The view manages input (key presses, mouse movements, touch gestures, etc.) which ultimately manipulates properties of the model.
 
